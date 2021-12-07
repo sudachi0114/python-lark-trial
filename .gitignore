@@ -1,0 +1,5 @@
+# mac system file
+.DS_Store
+
+# python venv
+venv/
